@@ -1,4 +1,4 @@
-// David Kyle Miller & Calvin Matthews 
+
 // Week 4 Project 
 // Phone Keypads
 /* This program takes an letter and outputs the corresponding number from a phone keypad*/
