@@ -1,5 +1,4 @@
 //Week 5 Project 
-//Kyle Miller and Calvin Matthews 
 //Project Max Occurence 
 // project accepts integers until 0 is entered, prints out the max value, and the number of times that number occurs
 
